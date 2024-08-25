@@ -23,7 +23,7 @@ Welcome to my GitHub profile! Here you'll find my latest projects, contributions
 ## 🔗 Links
 
 - [My Website](https://yourwebsite.com)
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in/isaac-biroue/)
 - [Twitter](https://twitter.com/yourusername)
 
 ## 🔥 Latest Projects
