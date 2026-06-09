@@ -30,7 +30,7 @@ Service Desk  ──►  Junior SysAdmin  ──►  SysAdmin  ──►  Senior
      └── Linux basics ──── Web stack ──── HA & Automation ──────┘
 ```
 
-**Current position:** Linux Fundamentals + Nginx + MariaDB ✅
+**Progress:** 3 / 10 modules completed · 17 commits · Last update: 2026-06-10
 
 ---
 
@@ -46,7 +46,6 @@ Service Desk  ──►  Junior SysAdmin  ──►  SysAdmin  ──►  Senior
 ### Web & Database
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Security & Tools
 ![SELinux](https://img.shields.io/badge/SELinux-Enforcing-red?style=for-the-badge&logo=redhat&logoColor=white)
@@ -73,7 +72,7 @@ Service Desk  ──►  Junior SysAdmin  ──►  SysAdmin  ──►  Senior
 | 01 | **Linux Fundamentals** | users, permissions, systemd, logs, firewall | ✅ Complete |
 | 02 | **Nginx** | virtual hosts, SELinux, HTTPS, log analysis | ✅ Complete |
 | 03 | **MariaDB** | SQL, users, backup/restore, automation | ✅ Complete |
-| 04 | **Monitoring** | Prometheus, Grafana, alerting, health checks | 🔄 In Progress |
+| 04 | **Monitoring** | Prometheus, Grafana, alerting, health checks | ⬜ Upcoming |
 | 05 | **Bash Scripting** | functions, parsing, deployment scripts | ⬜ Upcoming |
 | 06 | **Linux Internals** | LVM, memory, kernel, performance tuning | ⬜ Upcoming |
 | 07 | **High Availability** | load balancing, replication, failover | ⬜ Upcoming |
@@ -105,7 +104,6 @@ Service Desk  ──►  Junior SysAdmin  ──►  SysAdmin  ──►  Senior
 ```yaml
 OS:       Red Hat Enterprise Linux 10.2 (Coughlan)
 Kernel:   6.12.0
-CPU:      x86_64
 RAM:      16 GB
 Disk:     70 GB
 Access:   SSH + Tailscale VPN
