@@ -30,7 +30,7 @@ Service Desk  ──►  Junior SysAdmin  ──►  SysAdmin  ──►  Senior
      └── Linux basics ──── Web stack ──── HA & Automation ──────┘
 ```
 
-**Progress:** 3 / 10 modules completed · 17 commits · Last update: 2026-06-10
+**Progress:** 4 / 10 modules completed · 18 commits · Last update: 2026-06-10
 
 ---
 
@@ -72,7 +72,7 @@ Service Desk  ──►  Junior SysAdmin  ──►  SysAdmin  ──►  Senior
 | 01 | **Linux Fundamentals** | users, permissions, systemd, logs, firewall | ✅ Complete |
 | 02 | **Nginx** | virtual hosts, SELinux, HTTPS, log analysis | ✅ Complete |
 | 03 | **MariaDB** | SQL, users, backup/restore, automation | ✅ Complete |
-| 04 | **Monitoring** | Prometheus, Grafana, alerting, health checks | ⬜ Upcoming |
+| 04 | **Monitoring** | Prometheus, Grafana, alerting, health checks | ✅ Complete |
 | 05 | **Bash Scripting** | functions, parsing, deployment scripts | ⬜ Upcoming |
 | 06 | **Linux Internals** | LVM, memory, kernel, performance tuning | ⬜ Upcoming |
 | 07 | **High Availability** | load balancing, replication, failover | ⬜ Upcoming |
