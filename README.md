@@ -30,7 +30,7 @@ Service Desk  ──►  Junior SysAdmin  ──►  SysAdmin  ──►  Senior
      └── Linux basics ──── Web stack ──── HA & Automation ──────┘
 ```
 
-**Progress:** 6 / 10 modules completed · 28 commits · Last update: 2026-06-11
+**Progress:** 6 / 38 modules completed · 2 in progress · Last update: 2026-06-11
 
 ---
 
@@ -52,11 +52,15 @@ Service Desk  ──►  Junior SysAdmin  ──►  SysAdmin  ──►  Senior
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Coming Soon
+### Monitoring & Automation
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+### Coming Soon
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 </div>
 
@@ -72,13 +76,14 @@ Service Desk  ──►  Junior SysAdmin  ──►  SysAdmin  ──►  Senior
 | 01 | **Linux Fundamentals** | users, permissions, systemd, logs, firewall | ✅ Complete |
 | 02 | **Nginx** | virtual hosts, SELinux, HTTPS, log analysis | ✅ Complete |
 | 03 | **MariaDB** | SQL, users, backup/restore, automation | ✅ Complete |
-| 04 | **Monitoring** | Prometheus, Grafana, alerting, health checks | ✅ Complete |
-| 05 | **Bash Scripting** | functions, parsing, deployment scripts | ⬜ Upcoming |
+| 04 | **Monitoring** | Prometheus, Grafana, Node Exporter, alerting | ✅ Complete |
+| 05 | **Bash Scripting** | functions, parsing, deployment scripts | ⏸ Paused |
 | 06 | **Linux Internals** | LVM, memory, kernel, performance tuning | ✅ Complete |
-| 07 | **High Availability** | load balancing, replication, failover | ✅ Complete |
-| 08 | **Ansible** | playbooks, roles, IaC | ⬜ Upcoming |
+| 07 | **High Availability** | Nginx LB ✅ · MariaDB replication ✅ · Keepalived ⏸ | 🔄 In Progress |
+| 08 | **Ansible** | roles ✅ · idempotence ✅ · variables/handlers/Vault ⏸ | 🔄 In Progress |
 | 09 | **Security** | hardening, Fail2ban, Let's Encrypt, SELinux | ⬜ Upcoming |
 | 10 | **Incident Management** | diagnosis, post-mortem, runbooks | ⬜ Upcoming |
+| … | 28 more modules | [full roadmap →](https://github.com/biroue10/syseng-journey/blob/main/ROADMAP.md) | ⬜ |
 
 ---
 
@@ -107,7 +112,7 @@ Kernel:   6.12.0
 RAM:      16 GB
 Disk:     70 GB
 Access:   SSH + Tailscale VPN
-Stack:    Nginx · MariaDB · Bash · Git · OpenSSL
+Stack:    Nginx · MariaDB · Ansible · Prometheus · Grafana · Bash · Git
 ```
 
 ---
