@@ -30,7 +30,7 @@ Service Desk  ──►  Junior SysAdmin  ──►  SysAdmin  ──►  Senior
      └── Linux basics ──── Web stack ──── HA & Automation ──────┘
 ```
 
-**Progress:** 7 / 10 modules completed · 30 commits · Last update: 2026-06-12
+**Progress:** 8 / 10 modules completed · 31 commits · Last update: 2026-06-12
 
 ---
 
@@ -77,7 +77,7 @@ Service Desk  ──►  Junior SysAdmin  ──►  SysAdmin  ──►  Senior
 | 06 | **Linux Internals** | LVM, memory, kernel, performance tuning | ✅ Complete |
 | 07 | **High Availability** | load balancing, replication, failover | ✅ Complete |
 | 08 | **Ansible** | playbooks, roles, IaC | ✅ Complete |
-| 09 | **Security** | hardening, Fail2ban, Let's Encrypt, SELinux | ⬜ Upcoming |
+| 09 | **Security** | hardening, Fail2ban, Let's Encrypt, SELinux | ✅ Complete |
 | 10 | **Incident Management** | diagnosis, post-mortem, runbooks | ⬜ Upcoming |
 
 ---
