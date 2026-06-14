@@ -30,7 +30,7 @@ Service Desk  ──►  Junior SysAdmin  ──►  SysAdmin  ──►  Senior
      └── Linux basics ──── Web stack ──── HA & Automation ──────┘
 ```
 
-**Progress:** 8 / 10 modules completed · 37 commits · Last update: 2026-06-14
+**Progress:** 8 / 10 modules completed · 38 commits · Last update: 2026-06-14
 
 ---
 
