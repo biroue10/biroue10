@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=EE0000&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Biroue+Isaac+%F0%9F%91%8B;Junior+SysAdmin+in+Progress;Building+in+public%2C+one+commit+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=EE0000&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Biroue+Isaac+%F0%9F%91%8B;Systems+Engineer+in+Progress;Building+in+public%2C+one+commit+at+a+time" alt="Typing SVG" />
 
 <br/>
 
@@ -13,24 +13,24 @@
 
 ## 🎯 My Mission
 
-> Building real Linux skills from scratch —
+> Transforming hands-on Linux experience into Senior Systems Engineer skills —
 > one real server, one commit at a time.
 
-I'm **Biroue Isaac**, currently a **Service Desk Analyst** on a structured, self-driven path toward **Junior Systems Administrator**. Every concept I learn gets applied on a real **RHEL 10 server**, documented, and published here — no tutorials without practice, no theory without verification.
+I'm **Biroue Isaac**, currently a **Service Desk Analyst** on a structured, self-driven path toward **Senior Systems Engineer**. Every concept I learn gets applied on a real **RHEL 10 server**, documented, and published here — no tutorials without practice, no theory without verification.
 
 ---
 
 ## 🗺️ The Journey
 
 ```
-         NOW                                GOAL
-          │                                  │
+         NOW                                              GOAL
+          │                                                │
 Service Desk  ──►  Junior SysAdmin  ──►  SysAdmin  ──►  Senior SysEng
     [●]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━○
-     └── Linux basics ──── Web stack ──── Containers ──── Cloud ─┘
+     └── Linux basics ──── Web stack ──── HA & Automation ──────┘
 ```
 
-**Progress:** 8 / 10 modules completed · 36 commits · Last update: 2026-06-13
+**Progress:** 8 / 10 modules completed · 37 commits · Last update: 2026-06-14
 
 ---
 
